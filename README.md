@@ -15,7 +15,10 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
+<!-- ![octocat-1693594228203](https://github.com/PedroPotenza/PedroPotenza/assets/83480686/95cd9349-9a09-4c59-b886-351fb782751c) -->
+
 <!-- LINKS: -->
+
 <!-- REACT  https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white -->
 <!-- REACT QUERY https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white -->
 <!-- MATERIAL UI  https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white -->
