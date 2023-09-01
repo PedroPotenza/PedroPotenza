@@ -1,4 +1,9 @@
-### Hi there 👋
+## Oi Dev, eu sou o Pedro! 
+
+![image]({[BadgeURLHere](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)})
+
+## Sobre mim
+Chamado também como Potenza ou para facilitar, Potz, sou um desenvolvedor front-end com mais de 2 anos de experiência em desenvolvimento web, utilizando ferramentas do ecossistema React.
 
 <!--
 **PedroPotenza/PedroPotenza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
