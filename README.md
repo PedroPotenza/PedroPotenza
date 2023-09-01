@@ -1,6 +1,6 @@
-## Oi Dev, eu sou o Pedro! 
+## Opa, oie! 
 
-![image]({[BadgeURLHere](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)})
+<img src="[{BadgeURLHere}](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)" />
 
 ## Sobre mim
 Chamado também como Potenza ou para facilitar, Potz, sou um desenvolvedor front-end com mais de 2 anos de experiência em desenvolvimento web, utilizando ferramentas do ecossistema React.
