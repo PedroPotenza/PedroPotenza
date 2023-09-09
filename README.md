@@ -17,6 +17,10 @@
 
 <!-- ![octocat-1693594228203](https://github.com/PedroPotenza/PedroPotenza/assets/83480686/95cd9349-9a09-4c59-b886-351fb782751c) -->
 
+<!-- github-readme-stats-lilac-tau-99.vercel.app -->
+
+[![Anurag's GitHub stats](https://github-readme-stats-lilac-tau-99.vercel.app/api?username=PedroPotenza)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- LINKS: -->
 
 <!-- REACT  https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white -->
