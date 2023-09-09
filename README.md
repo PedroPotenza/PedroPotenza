@@ -19,7 +19,7 @@
 
 <!-- github-readme-stats-lilac-tau-99.vercel.app -->
 
-[![Pedro Potenza's GitHub stats](https://github-readme-stats-omega-nine-47.vercel.app/api?username=PedroPotenza&show_icons=true&theme=transparent&hide=contribs,issues,stars&include_all_commits=true&show=reviews&hide_rank=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/PedroPotenza))
+[![Pedro Potenza's GitHub stats](https://github-readme-stats-omega-nine-47.vercel.app/api?username=PedroPotenza&show_icons=true&theme=transparent&hide=contribs,issues,stars,&include_all_commits=true&show=reviews&hide_rank=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/PedroPotenza))
 
 <!-- LINKS: -->
 
