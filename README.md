@@ -19,9 +19,10 @@
 
 <!-- github-readme-stats-lilac-tau-99.vercel.app -->
 
-[![Anurag's GitHub stats](https://github-readme-stats-lilac-tau-99.vercel.app/api?username=PedroPotenza)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-omega-nine-47.vercel.app/api?username=PedroPotenza)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/PedroPotenza"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=PedroPotenza&theme=radical&title_color=ff3068?"></a>
+<a href="https://github.com/PedroPotenza"><img width="50%" src="https://github-readme-stats-omega-nine-47.vercel.app
+/api?username=PedroPotenza&theme=radical&title_color=ff3068?"></a>
 
 <!-- LINKS: -->
 
